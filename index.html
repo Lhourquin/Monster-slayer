@@ -10,11 +10,11 @@
 <body>
     <div id="game">
         <p>you</p>
-        <p>{{pointYou}}</p>
+        <p><progress id="avancement" v-bind:value="pointYou" max="100"></progress><span>{{pointYou}}</span></p>
         <p>monster</p>
-        <p>{{pointMonster}}</p>
+        <p><progress id="avancement" v-bind:value="pointMonster" max="100"></progress><span>{{pointMonster}}</span></p>
         <button>Start new game</button>
-        <button>attack</button>
+        <button v-on:click='attack'>attack</button>
         <button>special attack</button>
         <button>heal</button>
         <button>give up</button>
