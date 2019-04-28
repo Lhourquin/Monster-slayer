@@ -4,5 +4,4 @@
 
 ## Consigne :
 
-Vue JS only
-Les boutons de combat ne sont pas accessibles, un bouton « New Game » est accessible, New Game donne accès aux boutons de combat et les barres de vies sont mise à jour en temps réel. A la fin de chaque partie demander une confirmation de nouvelle partie.
+Coder le js uniquement avec le framework VueJS, les boutons de combat ne sont pas accessibles, un bouton « New Game » est accessible, New Game donne accès aux boutons de combat et les barres de vies sont mise à jour en temps réel. A la fin de chaque partie demander une confirmation de nouvelle partie.
