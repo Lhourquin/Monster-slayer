@@ -8,5 +8,9 @@ Coder le js uniquement avec le framework VueJS, les boutons de combat ne sont pa
 
 ## Langage utilisés ?
 
-..*HTML5
-..*JAVASCRIPT("VueJS only)
+* HTML5
+* JAVASCRIPT("VueJS only)
+
+## Dans quel cadre ai-je fait cet exercice ?
+
+Dans le cadre de la formation SIMPLON développeur WEB.
