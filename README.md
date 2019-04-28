@@ -11,6 +11,6 @@ Coder le js uniquement avec le framework VueJS, les boutons de combat ne sont pa
 * HTML5
 * JAVASCRIPT("VueJS only)
 
-## Dans quel cadre ai-je fait cet exercice ?
+## Année et ebtrprise/organisme :
 
-Dans le cadre de la formation SIMPLON développeur WEB.
+Projet commencer dans le cadre de la formation SIMPLON développeur WEB en Avril 2019.
